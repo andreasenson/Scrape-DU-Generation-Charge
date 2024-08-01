@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error>
- <Code>InvalidCloudKey</Code>
- <Message>The cloud key provided has an invalid format.</Message>
- <Resource>nebula.wsimg.com/794541913a96a42bbb4a8bea56c05656</Resource>
- <RequestId>GDN4D7014FB522ADC966332FF337C7E0</RequestId>
- <Details/>
-</Error>
