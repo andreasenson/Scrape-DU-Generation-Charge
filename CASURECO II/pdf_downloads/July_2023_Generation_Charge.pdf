@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="author" content="Jeremiah James B. Abad">
-        <meta name="csrf-token" content="J48Y5cM43us8u2vkSf3NdVIuMl01wMe8R2iX74Gz">
+        <meta name="csrf-token" content="kPUS4ObiTbSBviukRRahvlT1qiEGxgObQilAOytw">
         <!-- tailwind css -->
         
         <link href="https://www.casureco2.com.ph/css/app.css" rel="stylesheet" rel="preload"> <!-- important css file -->
@@ -130,24 +130,24 @@
                                             July
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            2024
+                                            2023
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            12.2728
+                                            10.3728
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            11.3975
+                                            9.4975
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            10.5511
+                                            8.6995
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            7.9383
+                                            6.441
                                         </th>
                                         <td class="px-6 py-4 text-center">
                                             <div class="flex flex-row items-center space-x-4 mx-auto">
                                                
-                                                <button id="dropdownDefaultButton22" data-dropdown-toggle="dropdown22" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
+                                                <button id="dropdownDefaultButton3" data-dropdown-toggle="dropdown3" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
                                                     <span class="mr-2">View PDF</span> 
                                                     <svg class="w-2.5 h-2.5 ms-3 self-center" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
                                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
@@ -155,15 +155,15 @@
                                                 </button>
                                                     
                                                     <!-- Dropdown menu -->
-                                                    <div id="dropdown22" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton22">
+                                                    <div id="dropdown3" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton3">
                                                         <li>
-                                                                                                                        <a href="https://www.casureco2.com.ph/public/public/rates_images/JULY SUMMARY-FOR POSTING_1721352610.pdf" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
                                                                 Power Rates
                                                             </a>
                                                                                                                     </li>
                                                         <li>
-                                                                                                                        <a href="https://www.casureco2.com.ph/public/public/rates_images/JULY GEN-MIX - Copy_1721352610.pdf" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
                                                                 Generation Charge
                                                             </a>
                                                                                                                     </li>
@@ -176,24 +176,24 @@
                                             June
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            2024
+                                            2023
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            5.929
+                                            11.2937
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            5.0537
+                                            10.4177
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            4.1259
+                                            9.6608
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            2.7423
+                                            7.1531
                                         </th>
                                         <td class="px-6 py-4 text-center">
                                             <div class="flex flex-row items-center space-x-4 mx-auto">
                                                
-                                                <button id="dropdownDefaultButton21" data-dropdown-toggle="dropdown21" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
+                                                <button id="dropdownDefaultButton2" data-dropdown-toggle="dropdown2" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
                                                     <span class="mr-2">View PDF</span> 
                                                     <svg class="w-2.5 h-2.5 ms-3 self-center" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
                                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
@@ -201,15 +201,15 @@
                                                 </button>
                                                     
                                                     <!-- Dropdown menu -->
-                                                    <div id="dropdown21" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton21">
+                                                    <div id="dropdown2" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton2">
                                                         <li>
-                                                                                                                        <a href="https://www.casureco2.com.ph/public/public/rates_images/JUNE 2024 RATES_1718848441.pdf" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
                                                                 Power Rates
                                                             </a>
                                                                                                                     </li>
                                                         <li>
-                                                                                                                        <a href="https://www.casureco2.com.ph/public/public/rates_images/JUNE GENERATION CHARGE_1718848441.pdf" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
                                                                 Generation Charge
                                                             </a>
                                                                                                                     </li>
@@ -222,24 +222,24 @@
                                             May
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            2024
+                                            2023
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            10.7583
+                                            11.2937
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            9.883
+                                            10.4177
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            9.0416
+                                            9.6608
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            6.7472
+                                            7.1531
                                         </th>
                                         <td class="px-6 py-4 text-center">
                                             <div class="flex flex-row items-center space-x-4 mx-auto">
                                                
-                                                <button id="dropdownDefaultButton20" data-dropdown-toggle="dropdown20" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
+                                                <button id="dropdownDefaultButton14" data-dropdown-toggle="dropdown14" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
                                                     <span class="mr-2">View PDF</span> 
                                                     <svg class="w-2.5 h-2.5 ms-3 self-center" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
                                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
@@ -247,15 +247,15 @@
                                                 </button>
                                                     
                                                     <!-- Dropdown menu -->
-                                                    <div id="dropdown20" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton20">
+                                                    <div id="dropdown14" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton14">
                                                         <li>
-                                                                                                                        <a href="https://www.casureco2.com.ph/public/public/rates_images/May 2024 Rates_1716171011.pdf" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
                                                                 Power Rates
                                                             </a>
                                                                                                                     </li>
                                                         <li>
-                                                                                                                        <a href="https://www.casureco2.com.ph/public/public/rates_images/MAY GEN-MIX_1716171011.pdf" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
                                                                 Generation Charge
                                                             </a>
                                                                                                                     </li>
@@ -268,24 +268,24 @@
                                             April
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            2024
+                                            2023
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            8.7032
+                                            15.4444
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            7.8279
+                                            14.5684
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            6.9287
+                                            13.5077
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            4.9881
+                                            10.1451
                                         </th>
                                         <td class="px-6 py-4 text-center">
                                             <div class="flex flex-row items-center space-x-4 mx-auto">
                                                
-                                                <button id="dropdownDefaultButton17" data-dropdown-toggle="dropdown17" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
+                                                <button id="dropdownDefaultButton13" data-dropdown-toggle="dropdown13" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
                                                     <span class="mr-2">View PDF</span> 
                                                     <svg class="w-2.5 h-2.5 ms-3 self-center" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
                                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
@@ -293,15 +293,15 @@
                                                 </button>
                                                     
                                                     <!-- Dropdown menu -->
-                                                    <div id="dropdown17" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton17">
+                                                    <div id="dropdown13" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton13">
                                                         <li>
-                                                                                                                        <a href="https://www.casureco2.com.ph/public/public/rates_images/april 2024 RATES_1715819488.pdf" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
                                                                 Power Rates
                                                             </a>
                                                                                                                     </li>
                                                         <li>
-                                                                                                                        <a href="https://www.casureco2.com.ph/public/public/rates_images/APRIL GEN-MIX_1715819488.pdf" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
+                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
                                                                 Generation Charge
                                                             </a>
                                                                                                                     </li>
@@ -314,24 +314,24 @@
                                             March
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            2024
+                                            2023
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            5.2137
+                                            17.3227
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            4.3384
+                                            16.4467
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            3.1647
+                                            15.566
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            4.239
+                                            11.7441
                                         </th>
                                         <td class="px-6 py-4 text-center">
                                             <div class="flex flex-row items-center space-x-4 mx-auto">
                                                
-                                                <button id="dropdownDefaultButton16" data-dropdown-toggle="dropdown16" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
+                                                <button id="dropdownDefaultButton12" data-dropdown-toggle="dropdown12" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
                                                     <span class="mr-2">View PDF</span> 
                                                     <svg class="w-2.5 h-2.5 ms-3 self-center" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
                                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
@@ -339,8 +339,8 @@
                                                 </button>
                                                     
                                                     <!-- Dropdown menu -->
-                                                    <div id="dropdown16" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton16">
+                                                    <div id="dropdown12" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton12">
                                                         <li>
                                                                                                                         <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
                                                                 Power Rates
@@ -360,24 +360,24 @@
                                             February
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            2024
+                                            2023
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            7.9141
+                                            17.8311
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            7.0388
+                                            16.9551
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            6.1337
+                                            16.0546
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            4.2481
+                                            12.0725
                                         </th>
                                         <td class="px-6 py-4 text-center">
                                             <div class="flex flex-row items-center space-x-4 mx-auto">
                                                
-                                                <button id="dropdownDefaultButton15" data-dropdown-toggle="dropdown15" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
+                                                <button id="dropdownDefaultButton10" data-dropdown-toggle="dropdown10" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
                                                     <span class="mr-2">View PDF</span> 
                                                     <svg class="w-2.5 h-2.5 ms-3 self-center" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
                                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
@@ -385,8 +385,8 @@
                                                 </button>
                                                     
                                                     <!-- Dropdown menu -->
-                                                    <div id="dropdown15" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton15">
+                                                    <div id="dropdown10" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton10">
                                                         <li>
                                                                                                                         <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
                                                                 Power Rates
@@ -406,70 +406,24 @@
                                             January
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            2024
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            8.1989
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            7.3236
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            6.4647
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            4.5332
-                                        </th>
-                                        <td class="px-6 py-4 text-center">
-                                            <div class="flex flex-row items-center space-x-4 mx-auto">
-                                               
-                                                <button id="dropdownDefaultButton1" data-dropdown-toggle="dropdown1" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
-                                                    <span class="mr-2">View PDF</span> 
-                                                    <svg class="w-2.5 h-2.5 ms-3 self-center" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
-                                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
-                                                    </svg>
-                                                </button>
-                                                    
-                                                    <!-- Dropdown menu -->
-                                                    <div id="dropdown1" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton1">
-                                                        <li>
-                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
-                                                                Power Rates
-                                                            </a>
-                                                                                                                    </li>
-                                                        <li>
-                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
-                                                                Generation Charge
-                                                            </a>
-                                                                                                                    </li>
-                                                        </ul>
-                                                    </div>
-    
-                                                                            </tr>
-                                                                <tr class="text-center border-b dark:bg-gray-800 dark:border-gray-700 whitespace-wrap" >
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            December
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
                                             2023
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            8.0953
+                                            17.3085
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            7.22
+                                            16.4242
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            6.3367
+                                            15.449
                                         </th>
                                         <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            4.4616
+                                            11.6501
                                         </th>
                                         <td class="px-6 py-4 text-center">
                                             <div class="flex flex-row items-center space-x-4 mx-auto">
                                                
-                                                <button id="dropdownDefaultButton8" data-dropdown-toggle="dropdown8" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
+                                                <button id="dropdownDefaultButton9" data-dropdown-toggle="dropdown9" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
                                                     <span class="mr-2">View PDF</span> 
                                                     <svg class="w-2.5 h-2.5 ms-3 self-center" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
                                                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
@@ -477,192 +431,8 @@
                                                 </button>
                                                     
                                                     <!-- Dropdown menu -->
-                                                    <div id="dropdown8" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton8">
-                                                        <li>
-                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
-                                                                Power Rates
-                                                            </a>
-                                                                                                                    </li>
-                                                        <li>
-                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
-                                                                Generation Charge
-                                                            </a>
-                                                                                                                    </li>
-                                                        </ul>
-                                                    </div>
-    
-                                                                            </tr>
-                                                                <tr class="text-center border-b dark:bg-gray-800 dark:border-gray-700 whitespace-wrap" >
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            November
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            2023
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            9.9902
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            9.1149
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            8.2465
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            6.0286
-                                        </th>
-                                        <td class="px-6 py-4 text-center">
-                                            <div class="flex flex-row items-center space-x-4 mx-auto">
-                                               
-                                                <button id="dropdownDefaultButton7" data-dropdown-toggle="dropdown7" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
-                                                    <span class="mr-2">View PDF</span> 
-                                                    <svg class="w-2.5 h-2.5 ms-3 self-center" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
-                                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
-                                                    </svg>
-                                                </button>
-                                                    
-                                                    <!-- Dropdown menu -->
-                                                    <div id="dropdown7" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton7">
-                                                        <li>
-                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
-                                                                Power Rates
-                                                            </a>
-                                                                                                                    </li>
-                                                        <li>
-                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
-                                                                Generation Charge
-                                                            </a>
-                                                                                                                    </li>
-                                                        </ul>
-                                                    </div>
-    
-                                                                            </tr>
-                                                                <tr class="text-center border-b dark:bg-gray-800 dark:border-gray-700 whitespace-wrap" >
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            October
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            2023
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            6.424
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            5.5487
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            4.8526
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            3.2453
-                                        </th>
-                                        <td class="px-6 py-4 text-center">
-                                            <div class="flex flex-row items-center space-x-4 mx-auto">
-                                               
-                                                <button id="dropdownDefaultButton6" data-dropdown-toggle="dropdown6" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
-                                                    <span class="mr-2">View PDF</span> 
-                                                    <svg class="w-2.5 h-2.5 ms-3 self-center" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
-                                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
-                                                    </svg>
-                                                </button>
-                                                    
-                                                    <!-- Dropdown menu -->
-                                                    <div id="dropdown6" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton6">
-                                                        <li>
-                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
-                                                                Power Rates
-                                                            </a>
-                                                                                                                    </li>
-                                                        <li>
-                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
-                                                                Generation Charge
-                                                            </a>
-                                                                                                                    </li>
-                                                        </ul>
-                                                    </div>
-    
-                                                                            </tr>
-                                                                <tr class="text-center border-b dark:bg-gray-800 dark:border-gray-700 whitespace-wrap" >
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            September
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            2023
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            6.8851
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            6.0098
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            5.3026
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            3.6939
-                                        </th>
-                                        <td class="px-6 py-4 text-center">
-                                            <div class="flex flex-row items-center space-x-4 mx-auto">
-                                               
-                                                <button id="dropdownDefaultButton5" data-dropdown-toggle="dropdown5" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
-                                                    <span class="mr-2">View PDF</span> 
-                                                    <svg class="w-2.5 h-2.5 ms-3 self-center" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
-                                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
-                                                    </svg>
-                                                </button>
-                                                    
-                                                    <!-- Dropdown menu -->
-                                                    <div id="dropdown5" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton5">
-                                                        <li>
-                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
-                                                                Power Rates
-                                                            </a>
-                                                                                                                    </li>
-                                                        <li>
-                                                                                                                        <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
-                                                                Generation Charge
-                                                            </a>
-                                                                                                                    </li>
-                                                        </ul>
-                                                    </div>
-    
-                                                                            </tr>
-                                                                <tr class="text-center border-b dark:bg-gray-800 dark:border-gray-700 whitespace-wrap" >
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            August
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            2023
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            7.3172
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            6.4419
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            5.7217
-                                        </th>
-                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 dark:text-white">
-                                            3.9979
-                                        </th>
-                                        <td class="px-6 py-4 text-center">
-                                            <div class="flex flex-row items-center space-x-4 mx-auto">
-                                               
-                                                <button id="dropdownDefaultButton4" data-dropdown-toggle="dropdown4" class="w-max inline-flex text-blue-700 hover:text-white border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 dark:border-blue-500 dark:text-blue-500 dark:hover:text-white dark:hover:bg-blue-500 dark:focus:ring-blue-800 " type="button">
-                                                    <span class="mr-2">View PDF</span> 
-                                                    <svg class="w-2.5 h-2.5 ms-3 self-center" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
-                                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
-                                                    </svg>
-                                                </button>
-                                                    
-                                                    <!-- Dropdown menu -->
-                                                    <div id="dropdown4" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
-                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton4">
+                                                    <div id="dropdown9" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                                                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton9">
                                                         <li>
                                                                                                                         <a disabled href="#" class="block cursor-not-allowed px-4 py-2 text-gray-400 bg-gray-100 dark:bg-gray-600 dark:text-gray-400">
                                                                 Power Rates
@@ -718,22 +488,22 @@
 <div class="pagination"> <!-- for ajax pagination -->
     <nav role="navigation" aria-label="Pagination Navigation" class="flex items-center justify-between px-4 py-4">
         <div class="flex justify-between flex-1 sm:hidden">
-                            <span class="relative inline-flex items-center px-4 py-2 text-sm font-medium text-gray-500 bg-white border border-gray-300 cursor-default leading-5 rounded-md">
+                            <a href="https://www.casureco2.com.ph/support/rates?page=1" class="relative inline-flex items-center px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 rounded-md hover:text-gray-500 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150">
                     &laquo; Previous
-                </span>
-            
-                            <a href="https://www.casureco2.com.ph/support/rates?page=2" class="relative inline-flex items-center px-4 py-2 ml-3 text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 rounded-md hover:text-gray-500 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150">
-                    Next &raquo;
                 </a>
+            
+                            <span class="relative inline-flex items-center px-4 py-2 ml-3 text-sm font-medium text-gray-500 bg-white border border-gray-300 cursor-default leading-5 rounded-md">
+                    Next &raquo;
+                </span>
                     </div>
 
         <div class="hidden sm:flex-1 sm:flex sm:items-center sm:justify-between">
             <div>
                 <p class="text-sm text-gray-700 dark:text-white leading-5">
                     Showing
-                                            <span class="font-medium">1</span>
+                                            <span class="font-medium">13</span>
                         to
-                        <span class="font-medium">12</span>
+                        <span class="font-medium">19</span>
                                         of
                     <span class="font-medium">19</span>
                     results
@@ -743,31 +513,31 @@
             <div>
                 <span class="relative z-0 inline-flex shadow-sm rounded-md">
                     
-                                            <span aria-disabled="true" aria-label="&amp;laquo; Previous">
-                            <span class="relative inline-flex items-center px-2 py-2 text-sm font-medium text-gray-500 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400  dark:hover:text-white cursor-default rounded-l-md leading-5 transition ease-in-out duration-150" aria-hidden="true">
-                                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-                                    <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
-                                </svg>
-                            </span>
-                        </span>
+                                            <a href="https://www.casureco2.com.ph/support/rates?page=1" rel="prev" class="relative inline-flex rounded-l-md items-center px-2 py-2 text-sm  text-gray-500 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400  dark:hover:text-white active:bg-gray-100 active:text-gray-500 transition ease-in-out duration-150" aria-label="&amp;laquo; Previous">
+                            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
+                            </svg>
+                        </a>
                     
                     
                                             
                         
                         
-                                                                                                                        <span aria-current="page">
-                                        <span class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium z-10 px-3 py-2 leading-tight text-blue-600 border border-blue-300 bg-blue-50 hover:bg-blue-100 hover:text-blue-700 dark:border-gray-700 dark:bg-gray-700 dark:text-white leading-5 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150">1</span>
-                                    </span>
-                                                                                                                                <a href="https://www.casureco2.com.ph/support/rates?page=2" class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400  dark:hover:text-white active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150" aria-label="Go to page 2">
-                                        2
+                                                                                                                        <a href="https://www.casureco2.com.ph/support/rates?page=1" class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400  dark:hover:text-white active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150" aria-label="Go to page 1">
+                                        1
                                     </a>
+                                                                                                                                <span aria-current="page">
+                                        <span class="relative inline-flex items-center px-4 py-2 -ml-px text-sm font-medium z-10 px-3 py-2 leading-tight text-blue-600 border border-blue-300 bg-blue-50 hover:bg-blue-100 hover:text-blue-700 dark:border-gray-700 dark:bg-gray-700 dark:text-white leading-5 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150">2</span>
+                                    </span>
                                                                                                         
                     
-                                            <a href="https://www.casureco2.com.ph/support/rates?page=2" rel="next" class="relative inline-flex items-center px-2 py-2 -ml-px text-sm font-medium text-gray-500 rounded-r-md leading-5 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400  dark:hover:text-white focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-500 transition ease-in-out duration-150" aria-label="Next &amp;raquo;">
-                            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-                                <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
-                            </svg>
-                        </a>
+                                            <span aria-disabled="true" aria-label="Next &amp;raquo;">
+                            <span class="relative inline-flex items-center px-2 py-2 -ml-px text-sm font-medium text-gray-500 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400  dark:hover:text-whitecursor-default rounded-r-md leading-5 transition ease-in-out duration-150" aria-hidden="true">
+                                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                                    <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+                                </svg>
+                            </span>
+                        </span>
                                     </span>
             </div>
         </div>
